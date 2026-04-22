@@ -78,10 +78,9 @@ const CONFIG = {
       lines: [
         "Terima kasih sudah lahir dan menjadi sahabat aku dan zahra",
         "aku selalu happy",
-        "bisa ketemu orang <strong>special</strong> 
-        kayak kamu",
-        "SEMOGA",
-        "kamu terus dikelilingi dengan orang baik <span>:)</span>",
+        "bisa ketemu orang <strong>special</strong>",
+        "kayak KAMU",
+        "semoga kamu terus dikelilingi dengan orang baik <span>:)</span>",
       ],
       bigLetters: "SO",
     },
