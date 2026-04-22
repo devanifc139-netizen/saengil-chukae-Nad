@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Anyeong!",
-      subtitle: "Ini spesial buat kmu!",
+      subtitle: "Nih buat kmu!",
     },
     {
       type: "countdown",
@@ -78,8 +78,9 @@ const CONFIG = {
       lines: [
         "Terima kasih sudah lahir dan menjadi sahabat aku dan zahra",
         "aku selalu happy",
-        "bisa ketemu orang <strong>special</strong> kayak kamu.",
-        "semoga",
+        "bisa ketemu orang <strong>special</strong> 
+        kayak kamu",
+        "SEMOGA",
         "kamu terus dikelilingi dengan orang baik <span>:)</span>",
       ],
       bigLetters: "SO",
@@ -100,7 +101,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "Bismillah semua harapanmu terwujud dan diberikan kesehatan selalu;)",
+      wishText: "Bismillah semua harapanmu terwujud dan diberikan kesehatan selalu",
     },
     {
       type: "fireworks",
